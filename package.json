@@ -1,0 +1,10 @@
+{
+  "name": "NodeLog",
+  "description": "Logging library for Node.js based on the java.util.logging library.",
+  "version": "1.0",
+  "author": "Fabian M.",
+  "keywords": ["log", "java.util.logging", "logging", "NodeLog", "logging library"],
+  "main": "./lib/logger.js",
+  "engines": { "node": ">= 0.2.0" }
+}
+
