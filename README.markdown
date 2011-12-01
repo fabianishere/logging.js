@@ -4,8 +4,7 @@
 
 		var logger = require('logger').getLogger('ServiceName');
 
-		logger.info('Hello world');
-
+		logger.info('Hello world');  
 	By default, the console handler is used which prints messages to the STDERR stream.
 
 ## Features
