@@ -3,7 +3,7 @@
  *
  * @author Fabian M.
  */
-var logger = require('../lib/logger.js').getLogger("HelloWorldService");
+var logger = require('../lib/logger').getLogger("HelloWorld");
 
 logger.severe("Hello world");
 logger.warning("Hello world");
