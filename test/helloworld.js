@@ -3,7 +3,10 @@
  *
  * @author Fabian M.
  */
-var logger = require('../lib/logger').getLogger("HelloWorld");
+var logger = require('../lib/logger').getLogger("HelloWorld"),
+	ConsoleHandler = require('../lib/handler/console');
+
+logger.addHandler(new ConsoleHandler());
 
 logger.severe("Hello world");
 logger.warning("Hello world");
