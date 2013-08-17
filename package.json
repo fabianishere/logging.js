@@ -1,14 +1,14 @@
 {
 	"name": "logging-js",
 	"description": "Logging library for Node.js based on java.util.logging.",
-	"version": "2.0",
+	"version": "2.0.0",
 	"author": "Fabian M. <mail.fabianm@gmail.com>",
 	"maintainers": [
 		"Fabian M. <mail.fabianm@gmail.com>"
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/flatiron/winston.git"
+		"url": "https://github.com/fabianm/logging.js.git"
 	},
 	"keywords": [
 		"logging",
