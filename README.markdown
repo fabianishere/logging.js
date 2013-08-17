@@ -2,12 +2,12 @@
 
    Logging library for Node.js based on the java.util.logging library.
 
-	``` js
-	var logging = require('logging-js'), logger = logging.get(module)
-		.configure(logging.BasicConfiguration);
+``` js
+var logging = require('logging-js'), logger = logging.get(module)
+	.configure(logging.BasicConfiguration);
 
-	logger.info('Hello world');
-	```  
+logger.info('Hello world');
+```  
 		  
    
 
