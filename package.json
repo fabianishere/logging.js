@@ -1,10 +1,21 @@
 {
-  "name": "NodeLog",
-  "description": "Logging library for Node.js based on the java.util.logging library.",
-  "version": "1.0",
-  "author": "Fabian M.",
-  "keywords": ["log", "java.util.logging", "logging", "NodeLog", "logging library"],
-  "main": "./lib/logger.js",
-  "engines": { "node": ">= 0.2.0" }
+	"name": "logging-js",
+	"description": "Logging library for Node.js based on java.util.logging.",
+	"version": "2.0",
+	"author": "Fabian M. <mail.fabianm@gmail.com>",
+	"maintainers": [
+		"Fabian M. <mail.fabianm@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/flatiron/winston.git"
+	},
+	"keywords": [
+		"logging",
+		"sysadmin",
+		"tools",
+		"logger",
+		"java.util.logging"
+	],
+	"main": "./lib/logging.js"
 }
-
