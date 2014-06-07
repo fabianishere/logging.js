@@ -1,7 +1,7 @@
 {
 	"name": "logging-js",
 	"description": "Logging library for Node.js based on java.util.logging.",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"author": "Fabian M. <mail.fabianm@gmail.com>",
 	"maintainers": [
 		"Fabian M. <mail.fabianm@gmail.com>"
