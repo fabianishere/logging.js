@@ -1,4 +1,4 @@
-var logging = require("../lib/logging"), logger = logging.get(module).configure(logging.BasicConfiguration);
+var logging = require("../lib/logging"), logger = logging.get(module);
 
 function main() {
 	logger.info("Hello World!");
