@@ -1,7 +1,7 @@
 {
 	"name": "logging-js",
 	"description": "Lightweight logging library for Node.js based on the java.util.logging package.",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"author": "Fabian M. <mail.fabianm@gmail.com>",
 	"homepage": "https://github.com/fabianm/logging.js",
 	"main": "lib/logging",
