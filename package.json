@@ -25,5 +25,6 @@
 	"licenses": [{ 
 		"type": "MIT",
 		"url": "https://github.com/fabianm/logging.js/blob/master/LICENSE"
-	}]
+	}],
+	"main": "lib/logging.js"
 }
